@@ -1,7 +1,0 @@
-C:\Users\pc 1\source\repos\ArbolBalanceado_UNAN\bin\Debug\ArbolBalanceado_UNAN.exe.config
-C:\Users\pc 1\source\repos\ArbolBalanceado_UNAN\bin\Debug\ArbolBalanceado_UNAN.exe
-C:\Users\pc 1\source\repos\ArbolBalanceado_UNAN\bin\Debug\ArbolBalanceado_UNAN.pdb
-C:\Users\pc 1\source\repos\ArbolBalanceado_UNAN\obj\Debug\ArbolBalanceado_UNAN.csproj.AssemblyReference.cache
-C:\Users\pc 1\source\repos\ArbolBalanceado_UNAN\obj\Debug\ArbolBalanceado_UNAN.csproj.CoreCompileInputs.cache
-C:\Users\pc 1\source\repos\ArbolBalanceado_UNAN\obj\Debug\ArbolBalanceado_UNAN.exe
-C:\Users\pc 1\source\repos\ArbolBalanceado_UNAN\obj\Debug\ArbolBalanceado_UNAN.pdb
